@@ -34,4 +34,3 @@ public class DeleteContactServlet extends HttpServlet {
 	
 
 }
-
